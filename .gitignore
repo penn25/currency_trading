@@ -1,0 +1,6 @@
+*.pyc
+nohup
+nohup.out
+controller/*.pyc
+library/*.pyc
+#config/config.cfg
